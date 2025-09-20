@@ -1,25 +1,27 @@
 Quantitative Developer | Advancing Holistic Medicine with AI and Quantum Technology
 
-Visualizing the future of integrative health with AI-driven insights and secure, decentralized systems.About Me I'm a Quantitative Developer passionate about revolutionizing holistic medicine through advanced technology. I specialize in building scalable, data-driven models and algorithms that integrate AI, blockchain, and quantum-secure systems to enhance access to personalized, integrative healthcare. My mission is to empower individuals and communities by creating secure, user-centric platforms for health data and predictive wellness, inspired by frameworks like FHIRChain and BioChi.
+Visualizing the future of integrative health with AI-driven insights and secure, decentralized systems.
+
+About Me 
+I'm a Quantitative Developer passionate about revolutionizing holistic medicine through advanced technology. I specialize in building scalable, data-driven models and algorithms that integrate AI, blockchain, and quantum-secure systems to enhance access to personalized, integrative healthcare. My mission is to empower individuals and communities by creating secure, user-centric platforms for health data and predictive wellness.
+
 
 Key Projects
 BioChain Prototype
 A quantum-secure, blockchain-based platform for decentralized health data management, enabling patient-controlled EHRs and predictive analytics for holistic medicine.
-Tech Stack: Python, Hyperledger Fabric, TensorFlow, IPFS
 
 Health Analytics Pipeline
 A high-performance data pipeline for processing biometric and environmental data, optimized for GPU acceleration to deliver real-time health insights.
-Tech Stack: C++, CUDA, Pandas, PostgreSQL
 
 Predictive Wellness Model
-A machine learning model for personalized health predictions, incorporating integrative medicine principles like the yin-inflammation spectrum.
-Tech Stack: Python, Scikit-learn, Jupyter, AWS
+A machine learning model for personalized health predictions, incorporating integrative medicine principles.
 
 Health Tech Utilities
 A collection of reusable scripts for health data preprocessing, FHIR parsing, and quantum-secure encryption.
-Tech Stack: Python, FHIR, Qiskit
 
-Skills & ToolsLanguages: Python, C++, Julia, R, SQL  
+
+Skills & Tools
+Languages: Python, C++, Julia, R, SQL  
 
 Frameworks & Libraries: TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn  
 
