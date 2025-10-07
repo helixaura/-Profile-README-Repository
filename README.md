@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/helixaura/-Profile-README-Repository/blob/main/Helix%20Banner.png?raw=true" width="100%" alt="Helix Aura Banner">
+  <img src="(https://github.com/helixaura/-Profile-README-Repository/blob/main/Helix%20Banner%202.png?raw=true)" width="100%" alt="Helix Aura Banner">
 </p>
 
 
@@ -24,3 +24,5 @@ Holistic Doctor • Systems Thinker • Learning Designer • Creative Strategis
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helixaura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1026&title_color=00E6D3&icon_color=A174FF&text_color=A8B3C5">
 </p>
+
+
