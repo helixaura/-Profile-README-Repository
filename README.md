@@ -15,7 +15,17 @@ Holistic Doctor • Systems Thinker • Learning Designer • Creative Strategis
   <a href="https://github.com/helixaura">
     <img src="https://img.shields.io/badge/GitHub-%23A174FF?style=flat&logo=github&logoColor=white">
   </a>
+  <a href="https://helixaura.com">
+    <img src="https://img.shields.io/badge/helixaura.com-%236C63FF?style=flat&logo=windowsterminal&logoColor=white">
+  </a>
+  <a href="https://drmeghan.substack.com">
+    <img src="https://img.shields.io/badge/Substack-%2300E6D3?style=flat&logo=substack&logoColor=white">
+  </a>
+  <a href="https://x.com/drmeghanmiller">
+    <img src="https://img.shields.io/badge/X-%23A174FF?style=flat&logo=x&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
