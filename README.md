@@ -3,7 +3,6 @@
 </p>
 
 
-<h3 align="center" style="color:#A8B3C5;">MEGHAN MILLER</h3>
 
 <p align="center" style="color:#A8B3C5;">
 Holistic Doctor • Systems Thinker • Learning Designer • Creative Strategist
