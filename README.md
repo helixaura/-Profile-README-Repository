@@ -3,7 +3,6 @@
 </p>
 
 
-<h2 align="center" style="color:#00E6D3;">HELIX AURA</h2>
 <h3 align="center" style="color:#A8B3C5;">MEGHAN MILLER</h3>
 
 <p align="center" style="color:#A8B3C5;">
