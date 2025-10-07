@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/helixaura/helixaura/main/helix-banner.png]" width="100%" alt="Helix Aura Banner">
+  <img src="[[https://raw.githubusercontent.com/helixaura/helixaura/main/helix-banner.png]](https://github.com/helixaura/-Profile-README-Repository/blob/main/Helix%20Banner.png?raw=true)" width="100%" alt="Helix Aura Banner">
 </p>
 
 <h2 align="center" style="color:#00E6D3;">HELIX AURA</h2>
