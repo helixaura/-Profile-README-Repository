@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/helixaura/-Profile-README-Repository/blob/main/Helix%20Banner.png?raw=true" width="75%" alt="Helix Aura Banner">
+  <img src="https://github.com/helixaura/-Profile-README-Repository/blob/main/Helix%20Banner.png?raw=true" width="100%" alt="Helix Aura Banner">
 </p>
+
 
 <h2 align="center" style="color:#00E6D3;">HELIX AURA</h2>
 <h3 align="center" style="color:#A8B3C5;">MEGHAN MILLER</h3>
