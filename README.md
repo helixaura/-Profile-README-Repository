@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/helixaura/-Profile-README-Repository/blob/main/Helix%20Banner.png?raw=true" width="100%" alt="Helix Aura Banner">
+  <img src="https://github.com/helixaura/-Profile-README-Repository/blob/main/Helix%20Banner.png?raw=true" width="75%" alt="Helix Aura Banner">
 </p>
 
 <h2 align="center" style="color:#00E6D3;">HELIX AURA</h2>
@@ -15,9 +15,6 @@ Holistic Doctor • Systems Thinker • Learning Designer • Creative Strategis
   </a>
   <a href="https://github.com/helixaura">
     <img src="https://img.shields.io/badge/GitHub-%23A174FF?style=flat&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/drmeghanmiller">
-    <img src="https://img.shields.io/badge/LinkedIn-%236C63FF?style=flat&logo=linkedin&logoColor=white">
   </a>
 </p>
 
