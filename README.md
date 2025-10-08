@@ -9,22 +9,20 @@ Holistic Doctor • Systems Thinker • Learning Designer • Creative Strategis
 </p>
 
 <p align="center">
-  <a href="mailto:m@helixaura.com">
-    <img src="https://img.shields.io/badge/Email-%2300E6D3?style=flat&logo=gmail&logoColor=white">
+  <a href="https://github.com/HelixAuraHealthTech/BioChain-Prototype">
+    <img src="https://img.shields.io/badge/BioChain--Prototype-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="BioChain Prototype">
   </a>
-  <a href="https://github.com/helixaura">
-    <img src="https://img.shields.io/badge/GitHub-%23A174FF?style=flat&logo=github&logoColor=white">
+  <a href="https://github.com/HelixAuraHealthTech/Governance">
+    <img src="https://img.shields.io/badge/Governance-7B68EE?style=for-the-badge&logo=github&logoColor=white" alt="Governance">
   </a>
-  <a href="https://helixaura.com">
-    <img src="https://img.shields.io/badge/helixaura.com-%236C63FF?style=flat&logo=windowsterminal&logoColor=white">
+  <a href="https://github.com/HelixAuraHealthTech/Health-Analytics-Pipeline">
+    <img src="https://img.shields.io/badge/Health--Analytics--Pipeline-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Health Analytics Pipeline">
   </a>
-  <a href="https://drmeghan.substack.com">
-    <img src="https://img.shields.io/badge/Substack-%2300E6D3?style=flat&logo=substack&logoColor=white">
-  </a>
-  <a href="https://x.com/drmeghanmiller">
-    <img src="https://img.shields.io/badge/X-%23A174FF?style=flat&logo=x&logoColor=white">
+  <a href="https://github.com/HelixAuraHealthTech/redesigned-eureka">
+    <img src="https://img.shields.io/badge/ML--Model-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="ML Model">
   </a>
 </p>
+
 
 
 ---
